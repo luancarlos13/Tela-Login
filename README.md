@@ -27,6 +27,6 @@ Páginas de login são essenciais em qualquer plataforma digital, pois funcionam
 
 ## 🖇️ Links
 
-Repositório: 
+Repositório: https://github.com/luancarlos13/Tela-Login
 
-Deploy do Projeto: 
+Deploy do Projeto: https://luancarlos13.github.io/Tela-Login/
